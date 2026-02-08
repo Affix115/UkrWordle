@@ -21,7 +21,7 @@
 ```bash
 git clone https://github.com/Affix115/UkrWordle.git
 cd UkrWordle
-
+```bash
 ---
 
 ## ▶️ Як запустити гру
