@@ -20,4 +20,4 @@
 1. Клонувати репозиторій:
 ```bash
 git clone https://github.com/Affix115/UkrWordle.git
-cd ukrainian-wordle
+cd UkrWordle
