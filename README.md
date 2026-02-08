@@ -21,3 +21,23 @@
 ```bash
 git clone https://github.com/Affix115/UkrWordle.git
 cd UkrWordle
+
+---
+
+## ▶️ Як запустити гру
+
+1. Переконайтесь, що у вас встановлений **Python 3.10 або новіший**:
+```bash
+python --version
+
+2. Перейдіть у папку проєкту:
+
+cd Ukrainian-Wordle
+
+3. Встановіть залежності (якщо ще не встановлені):
+
+pip install -r requirements.txt
+
+4. Запустіть гру:
+
+python src/wordle.py
