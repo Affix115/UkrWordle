@@ -14,30 +14,25 @@
 У вас є **6 спроб**, щоб вгадати слово.
 
 ---
-
 ## ⚙️ Встановлення
 
+1. Клонувати репозиторій:
+
+```bash
+git clone https://github.com/Affix115/UkrWordle.git
+cd UkrWordle
+```
+python --version
 1. Клонувати репозиторій:
 ```bash
 git clone https://github.com/Affix115/UkrWordle.git
 cd UkrWordle
+```
+2. Встановити залежності:
 ```bash
----
-
-## ▶️ Як запустити гру
-
-1. Переконайтесь, що у вас встановлений **Python 3.10 або новіший**:
-```bash
-python --version
-
-2. Перейдіть у папку проєкту:
-
-cd Ukrainian-Wordle
-
-3. Встановіть залежності (якщо ще не встановлені):
-
 pip install -r requirements.txt
-
-4. Запустіть гру:
-
+```
+3. Запустити гру:
+```bash
 python src/wordle.py
+```
